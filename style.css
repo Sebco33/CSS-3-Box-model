@@ -1,0 +1,51 @@
+body {
+	background: #FFFFFF;
+	border: 10px color #800080;	
+}
+
+* {
+	padding: 0;
+	margin: 0px;
+	font-size: 20px;
+}
+
+nav ul li {
+	background-color: #a306b6;
+	padding: 10px;
+	text-align: center;
+	display: inline;
+}
+
+nav a {
+	color: #FFFFFF;
+}
+
+h1 {
+	text-align: center;
+	font-size: 40px;
+	color: #000000;
+}
+
+h2 {
+	text-align: center;
+	font-size: 30px;
+}
+
+footer {
+	background-color: #C0C0C0;
+	color: #FFFFFF;
+}
+
+parent{
+  flex-direction: column;
+}
+
+body {
+  margin: 0;
+  font-family: arial;
+}
+
+nav li a.active {
+  background-color: white;
+  color: purple;
+}
